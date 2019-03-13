@@ -1,5 +1,5 @@
 # text-maker
-> Generates characters by the length entered randomly.
+> Generates a string randomly as many numbers as you entered.
 
 ### Author
 - khjkr <khj@kkutu.co> (KHJKR#9298)
