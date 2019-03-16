@@ -3,7 +3,7 @@
   "version": "1.0.3",
   "description": "Generates a string randomly as many numbers as you entered.",
   "main": "index.js",
-  "repository": "git@github.com:zeonplex/text-maker.git",
+  "repository": "https://github.com/zeonplex/text-maker.git",
   "author": "khjkr <khj@kkutu.co>",
   "license": "MIT",
   "keywords": [
