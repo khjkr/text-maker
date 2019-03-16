@@ -1,6 +1,6 @@
 {
   "name": "text-maker",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Generates a string randomly as many numbers as you entered.",
   "main": "index.js",
   "repository": "https://github.com/zeonplex/text-maker.git",
